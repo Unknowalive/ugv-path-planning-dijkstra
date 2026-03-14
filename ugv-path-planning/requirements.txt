@@ -1,0 +1,12 @@
+# UGV Path Planning Project Requirements
+
+# Core Python version requirement
+python_requires = ">=3.10"
+
+# Optional dependencies
+# Uncomment the following line if you want to use numpy for grid operations
+# numpy>=1.21.0
+
+# For running tests
+# pytest>=7.0.0
+# pytest-cov>=3.0.0
