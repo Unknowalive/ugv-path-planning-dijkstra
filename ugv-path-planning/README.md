@@ -152,6 +152,7 @@ PART 2: UGV NAVIGATION IN GRID ENVIRONMENT
 
 Configuration:
   Grid Size: 20x20
+  (Default grid size is 70x70, but smaller grids are used here for demonstration.)
   Obstacle Density: medium (25%)
   Algorithm: dijkstra
 
@@ -304,6 +305,10 @@ This project is designed for educational purposes to demonstrate:
 3. **Dynamic Systems**: Handling changing environments
 4. **Python Best Practices**: Modular design, docstrings, testing
 
+## 🤖 AI Assistance Disclosure
+AI tools were used to assist with documentation formatting and drafting parts of the README.  
+All algorithms, implementation decisions, and testing were reviewed and validated by the author.
+
 ## 🤝 Contributing
 
 Feel free to enhance this project by:
@@ -318,9 +323,7 @@ This project is for educational purposes.
 
 ## 👥 Authors
 
-- UGV Path Planning Team
-
-## 🔗 References
-
-- Dijkstra, E. W. (1959). "A note on two problems in connexion with graphs"
-- Hart, P. E., Nilsson, N. J., & Raphael, B. (1968). "A Formal Basis for the Heuristic Determination of Minimum Cost Paths"
+- **Ujjwal Kumar** — SE23UCSE177  
+- **Anirudh Jampana** — SE24UCSE132  
+- **Davin Joseph** — SE24UCSE155  
+- **A. Dhatri Manohar** — SE24UCSE206
